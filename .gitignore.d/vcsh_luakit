@@ -1,0 +1,9 @@
+*
+!/.config/luakit/bindings.lua
+!/.config/luakit/plugins/searchmenu/init.lua
+!/.config/luakit/plugins/tabgroups/init.lua
+!/.config/luakit/plugins/uaswitch/init.lua
+!/.config/luakit/plugins/uaswitch/ua_strings.lua
+!/.config/luakit/rc.lua
+!/.config/luakit/theme.lua
+!/.gitignore.d/vcsh_luakit
