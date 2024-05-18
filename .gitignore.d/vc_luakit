@@ -6,4 +6,4 @@
 !/.config/luakit/plugins/uaswitch/ua_strings.lua
 !/.config/luakit/rc.lua
 !/.config/luakit/theme.lua
-!/.gitignore.d/vcsh_luakit
+!/.gitignore.d/vc_luakit
