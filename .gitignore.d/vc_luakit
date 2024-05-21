@@ -7,3 +7,4 @@
 !/.config/luakit/rc.lua
 !/.config/luakit/theme.lua
 !/.gitignore.d/vc_luakit
+!/.local/share/applications/luakit.desktop
