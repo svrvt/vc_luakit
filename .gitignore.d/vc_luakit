@@ -12,6 +12,9 @@
 !/.config/luakit/plugins/uaswitch/ua_strings.lua
 !/.config/luakit/rc.lua
 !/.config/luakit/theme.lua
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/vc_luakit
 !/.gitignore.d
 !/.gitignore.d/vc_luakit
 !/.local
