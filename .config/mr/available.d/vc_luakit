@@ -1,4 +1,4 @@
-[~/.config/vcsh/repo.d/vc_luakit.git]
+[$HOME/.config/vcsh/repo.d/vc_luakit.git]
 checkout = vcsh clone https://github.com/svrvt/vc_luakit.git
 
 # vi: ft=ini syntax=sh
