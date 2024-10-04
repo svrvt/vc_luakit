@@ -14,7 +14,8 @@
 !/.config/luakit/theme.lua
 !/.config/mr
 !/.config/mr/available.d
-!/.config/mr/available.d/vc_luakit
+!/.config/mr/available.d/vc
+!/.config/mr/available.d/vc/vc_luakit
 !/.gitignore.d
 !/.gitignore.d/vc_luakit
 !/.local
